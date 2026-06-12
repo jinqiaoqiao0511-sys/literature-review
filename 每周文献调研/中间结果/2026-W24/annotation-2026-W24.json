@@ -1,0 +1,115 @@
+{
+  "week": "2026-W24",
+  "generated_at": "2026-06-11T16:29:00",
+  "total_papers": 34,
+  "annotations": [
+    {
+      "id": 1,
+      "title": "Generative AI for synthetic biology: Designing biological parts and systems",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.88,
+      "directions": ["#1 AI辅助代谢途径设计", "#14 LLM/大模型驱动"],
+      "annotation": "生成式AI与合成生物学融合综述，涵盖零件和系统设计",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 2,
+      "title": "Metabolism as the biochemical language for mechanistic biomedical AI",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.85,
+      "directions": ["#11 发酵过程智能调控"],
+      "annotation": "代谢作为AI与生物学机制连接的桥梁",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 3,
+      "title": "Regulatory grammar in human promoters uncovered by MPRA-based deep learning",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.82,
+      "directions": ["#13 启动子元件挖掘"],
+      "annotation": "PARM模型系统性解码人类启动子调控语法",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 4,
+      "title": "Artificial Intelligence agents for biological research: a survey",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.82,
+      "directions": ["#30 生物智能体", "#14 LLM"],
+      "annotation": "100+代表性研究系统综述生物AI智能体",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 5,
+      "title": "Beyond text generation: large language models as autonomous agents...",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.85,
+      "directions": ["#14 LLM/大模型驱动", "#30 生物智能体"],
+      "annotation": "LLM作为合成生物学自主智能体",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 6,
+      "title": "Large language model agents for biological intelligence",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.86,
+      "directions": ["#14 LLM/大模型驱动", "#30 生物智能体"],
+      "annotation": "LLM生物智能体综述",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 7,
+      "title": "Using a GPT-5-driven autonomous lab to optimize cell-free protein synthesis",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.80,
+      "directions": ["#32 GPT-5驱动的自主实验室", "#31 Cell-free"],
+      "annotation": "GPT-5驱动自主实验室优化CFPS",
+      "reading_mode": "精读"
+    },
+    {
+      "id": 8,
+      "title": "An AI-driven workflow for the accelerated optimization of cell-free...",
+      "priority": "⭐⭐⭐⭐",
+      "relevance_score": 0.78,
+      "directions": ["#31 AI加速CFPS优化", "#32 自主实验室"],
+      "annotation": "AI加速无细胞蛋白合成优化",
+      "reading_mode": "引导"
+    },
+    {
+      "id": 9,
+      "title": "A machine learning framework for promoter identification",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.80,
+      "directions": ["#13 启动子识别框架"],
+      "annotation": "启动子识别的机器学习框架综述",
+      "reading_mode": "引导"
+    },
+    {
+      "id": 10,
+      "title": "Context-aware synthetic promoter design using neural networks",
+      "priority": "⭐⭐⭐⭐",
+      "relevance_score": 0.78,
+      "directions": ["#13 启动子设计"],
+      "annotation": "神经网络上下文感知启动子设计",
+      "reading_mode": "引导"
+    },
+    {
+      "id": 11,
+      "title": "A DNABERT based deep learning framework for TFBS prediction",
+      "priority": "⭐⭐⭐⭐",
+      "relevance_score": 0.75,
+      "directions": ["#15 DNABERT TFBS"],
+      "annotation": "DNABERT转录因子结合位点预测",
+      "reading_mode": "引导"
+    },
+    {
+      "id": 12,
+      "title": "Deep learning-driven integrated pipeline for de novo design...",
+      "priority": "⭐⭐⭐⭐⭐",
+      "relevance_score": 0.77,
+      "directions": ["#43 肽/蛋白设计AI"],
+      "annotation": "治疗肽从头设计深度学习流程",
+      "reading_mode": "引导"
+    }
+  ]
+}
